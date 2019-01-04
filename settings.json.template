@@ -112,8 +112,8 @@
   },
 
   // Email address/password to send through mail service.
-  "appEmail": "rtw@rtwcoin.com",
-  "appEmailPassword": "password",
+  "appEmail": "otakugroup2015@gmail.com",
+  "appEmailPassword": "Yuka5y4Ur1S",
   "appEmailService": "gmail",
   
   // Master UI login account, and Label to assign to "" wallet accounts.
