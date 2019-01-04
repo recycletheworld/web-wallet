@@ -112,9 +112,9 @@
   },
 
   // Email address/password to send through mail service.
-  "appEmail": "otakugroup2015@gmail.com",
-  "appEmailPassword": "Yuka5y4Ur1E",
-  "appEmailService": "gmail",
+  "appEmail": "support@nur1labs.net",
+  "appEmailPassword": "5y5t3mC0r3",
+  "appEmailService": "horde",
   
   // Master UI login account, and Label to assign to "" wallet accounts.
   // ***  DO NOT CHANGE THE ACCOUNT NAME AFTER FIRST RUN!  ***
