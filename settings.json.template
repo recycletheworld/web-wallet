@@ -102,10 +102,10 @@
 
   // This setting is used to make RPC calls to the wallet daemon.
   "wallet": {
-    "rpcuser": "rpcuser",
-    "rpcpassword": "rpcpassword",
+    "rpcuser": "RTW_seed",
+    "rpcpassword": "44aLB2AXRPTgTwynXTrMgJJREryxLgaHcjXwxuQPiGGb392a3199020b13817d55f73da7",
     "rpchost": "127.0.0.1",
-    "rpcport": 18181,
+    "rpcport": 40102,
     "ssl": false,
     "rejectUnauthorized": false,
     "strictSSL": false
