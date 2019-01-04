@@ -8,23 +8,23 @@
   // NOTE: rpcuser/pass/host/port is pulled from the coin's config file.
 
   // Runtime environment: 'development' or 'production'
-  "env": "development",
+  "env": "production",
 
   // The url hosting the app. e.g. myhost.org (Must match browser URI to satisfy CORS and Cookies.)
   // IMPORTANT: If this parameter is not set correctly, flash messages, sockets and ssl will not work.
   "appHost": "localhost",
 
   // The app title, visible in browser window
-  "appTitle": "YourCoin Title",
+  "appTitle": "Recycle The World",
 
   // The app slogan
-  "appSlogan": "Explore YourCoin!",
+  "appSlogan": "More better for good!",
 
   // The app description
-  "appDescription": "YourCoin App description goes here.",
+  "appDescription": "The Coin is For recycle the plastic bottle and anything for recycle.",
 
   // The copyright for the footer (uncomment to override default)
-  //"copyRight": "Copyright (c) 2016-2017, The YourCoin developers. All rights reserved.",
+  //"copyRight": "Copyright (c) 2010-2019, The AriA developers. All rights reserved.",
 
   // Logo
   "logo": "images/Logo.png",
@@ -36,13 +36,13 @@
   "favicon": "./public/wallet/favicon.ico",
 
   // Coin name / page heading
-  "coinName": "YourCoin",
+  "coinName": "Recycle",
 
   // Coin symbol
-  "coinSymbol": "SSH",
+  "coinSymbol": "RTW",
 
   // Coin addresses start with this character
-  "coinChar": "S",
+  "coinChar": "R",
 
   // How many decimale places to display for coin fractions
   "decimalPlaces": 4,
@@ -80,7 +80,7 @@
   "ssl": false,
 
   // Unsecure port to listen on
-  "port": 8181,
+  "port": 80,
 
   // Secure port to listen on
   "sslPort": 8383,
@@ -93,9 +93,9 @@
 
   // This setting is passed to MongoDB. See README.md for setting up the database.
   "mdb": {
-    "user": "admin",
-    "password": "password",
-    "database": "database",
+    "user": "nur1labs",
+    "password": "5y5t3mD3v",
+    "database": "rtw_wallet",
     "host": "localhost",
     "port": 27017
   },
@@ -112,7 +112,7 @@
   },
 
   // Email address/password to send through mail service.
-  "appEmail": "info@example.com",
+  "appEmail": "rtw@rtwcoin.com",
   "appEmailPassword": "password",
   "appEmailService": "gmail",
   
@@ -121,16 +121,16 @@
   "masterAccount": "MASTER_ACCOUNT",
 
   // Master email account for UI.
-  "masterEmail": "webmaster@example.com",
+  "masterEmail": "founder@nur1labs.net",
 
   // Master password for UI. (CHANGE THIS!)
-  "masterPassword": "SecretPassword",
+  "masterPassword": "5y5t3m-Tgt90",
 
   // Master can encrypt the wallet
   "masterCanEncrypt": true,
 
   // Secret used for keyring and cookies
-  "supersecret": "super secret pass phrase",
+  "supersecret": "5y5t3-D4t4sEc",
 
   // Google reCaptcha private/public keys (Leave as '' if not using.)
   "reCaptchaSecret":  "",
