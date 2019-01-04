@@ -118,7 +118,7 @@
   
   // Master UI login account, and Label to assign to "" wallet accounts.
   // ***  DO NOT CHANGE THE ACCOUNT NAME AFTER FIRST RUN!  ***
-  "masterAccount": "MASTER_ACCOUNT",
+  "masterAccount": "nur1labs",
 
   // Master email account for UI.
   "masterEmail": "founder@nur1labs.net",
